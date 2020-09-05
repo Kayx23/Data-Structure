@@ -115,7 +115,7 @@ class M_Stack():
 print(
 '''
 Example for how to interact with the class: 
->>> MS = MinStack()
+>>> MS = M_Stack()
 >>> for i in [8,3,6,3,7,2]:
 	MS.push(i)
 8 is pushed to the stack
